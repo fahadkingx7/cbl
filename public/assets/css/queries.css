@@ -1,0 +1,3404 @@
+
+@media only screen and (min-width: 1599px) {
+    .logos_box{
+        margin-top: -45px;
+    }
+    #footer_search_btn > div.group {
+        width: 180px;
+    }
+    .at_blog_text,.at_blog2_text{
+        font-size: 16px;
+    }
+    .m_internet_plans_att{
+        padding-top: 100px;
+    }
+    #main_direct{
+        height: 700px;
+    }
+    #main_direct_content{
+        /*position: relative;*/
+        margin-top: 100px;
+    }
+    #dish_icon{
+        margin-top: 60px;
+    }
+    .best_dtv_deals1_text,.best_dtv_deals2_text{
+        font-size: 17px;
+    }
+    .best_dtv_deals1_pic > img{
+        margin-left: -147px;
+        width: 600px;
+    }
+    .best_dtv_deals2_pic > img{
+        width: 600px;
+        margin-right: -151px;
+    }
+    .dtv_description{
+        height: 1400px;
+    }
+    .dtv_descript_text{
+        width: 970px;
+    }
+    .dtv_descript_text > p.dtv_descript_p{
+        font-size: 18px;
+        line-height: 2;
+    }
+
+    #frnt_section1{
+        padding-top: 100px;
+    }
+    .frontier_descript_h{
+        font-size: 32px;
+    }
+    #frontier_section2{
+        height: 750px;
+        margin-top: -100px;
+    }
+    .xfinity_header_pic > img{
+        bottom: -37px;
+    }
+    #main_search{
+        background-size: cover;
+    }
+}
+@media only screen and (max-width: 1499px){
+    .spm_section1_h1 {
+        font-size: 22px;
+    }
+    .spm_section1_p{
+        font-size: 18px;
+    }
+    #spm_head_prices .before{
+        font-size: 22px;
+    }
+    #spm_head_prices .priceComponent .price-block .price .p-col.whole{
+        font-size: 50px;
+    }
+    #spm_head_prices .priceComponent .price-block .price .p-col.details .cents {
+        font-size: 22px;
+    }
+    #spm_head_prices .priceComponent .price-block .price .p-col.details .terms {
+        font-size: 15px;
+    }
+    #spm_head_prices .priceComponent .price-block .price .p-col.whole p{
+        font-size: 15px;
+        margin-top: -10px;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .my_container{
+        width: 970px;
+    }
+    .main_content{
+        width: 970px;
+        left: 30px;
+    }
+    .main_text,.main_image {
+        width: 400px;
+    }
+    .main_text > h1{
+        font-size: 40px;
+    }
+    div.main_content > div.main_text > form > div.search_btn > div.group{
+        width: 170px;
+    }
+    div.main_content > div.main_text > form > div.search_btn > button.btn{
+        padding: 10px 15px;
+    }
+    #providers_colm{
+        width: 970px;
+    }
+    div#providers_colm > .logo_md,
+    div#providers_colm > .logo_sm,
+    div#providers_colm > .logo_lg,
+    div#providers_colm > .red_dot_lg,
+    div#providers_colm > .red_dot_sm,
+    div#providers_colm > .red_dot_md{
+        margin-left: -90px;
+    }
+    .modem_section_pic{
+        width: 400px;
+    }
+    #footer_search_btn > button {
+        font-size: 7px;
+        padding: 7px 8px;
+    }
+    /*________________________________________ATT______________________________*/
+    #main_content_att,#att_section4{
+        width: fit-content;
+    }
+    .card_ip_att_head > h2{
+        font-size: 20px;
+    }
+    /*_______________________________COX_______________________________*/
+    .cox_blog1_pic>img, .cox_blog2_pic>img{
+        width:100%
+    }
+    .green_dot{
+        right:-20px
+    }
+    .cox_blog1_h1{
+        font-size: 60px;
+    }
+    .cox_blog1_h2{
+        font-size: 25px;
+    }
+    .cox_blog1_p{
+        font-size: 15px;
+    }
+    .cox_blog2_p{
+        font-size: 15px;
+        padding-top: 5px;
+    }
+    .cox_section4_text{
+        width: 68%;
+        float: right;
+        padding: 40px 100px 20px 40px;
+    }
+    .cox_section4_text > p{
+        margin: 20px 0px;
+    }
+    .cox_section4_dot{
+        margin-right: -110px;
+        margin-top: -50px;
+    }
+    #cox_pkg_section,#cox_section5,.cox_final{
+        width: 970px;
+    }
+    .cox_section5_right > p{
+        margin-top: 10px;
+    }
+    .cox_section5_right > img{
+        width: 490px;
+        height: 330px;
+    }
+    #section5_green{
+        height: 340px;
+    }
+    /*DIRECTTV STYLES____________________________________*/
+    .best_dtv_deals1_pic > img {
+        margin-left: -100px;
+        width: 500px;
+    }
+    .best_dtv_deals2_pic > img{
+        margin-right: -80px;
+        width: 470px;
+    }
+    .best_dtv_deals1_text{
+        padding-top: 10px;
+        padding-right: 0px;
+    }
+    .b_dtv_text{
+        line-height: 1.5;
+        padding-bottom: 8px;
+    }
+    .best_dtv_deals2_text {
+        padding-top: 83px;
+        padding-right: 40px;
+    }
+    .dtv_description{
+        height: 1100px;
+    }
+    .dtv_descript_text{
+        padding: 50px;
+    }
+    #direct_section5 > span.dot {
+        right: -40px;
+    }
+    /*_____________FRONTIER STYLING______________*/
+    .main_frontier{
+        padding-top: 100px;
+        height: 500px;
+    }
+    .frontier_descript_h {
+        font-size: 25px;
+        padding-bottom: 0px
+    }
+    .frontier_entertainment_text, .frontier_getdish_text {
+        padding-top: 5px;
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    .frnt_card_white > div{
+        width: 280px
+    }
+    /*___________________SPECTRUM___________________*/
+    /*#main_spectrum,#spct_section3,.optimum_header,.optimum_deals_sec,.suddenlink_head,.sdln_tvin_bundles,.xfinity_header,.hughesnet_head,.hughes_deal_sec{*/
+    /*    background-size: cover;*/
+    /*}*/
+    .main_head{
+        background-size: cover;
+    }
+    #main_content_spectrum{
+        width: 80%;
+    }
+    .priceComponent .price-block .price .p-col.whole{
+        font-size: 60px;
+        line-height: 0.8;
+    }
+    .priceComponent .price-block .price .p-col.whole p {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    .priceComponent .price-block .price .p-col.details .terms{
+        font-size: 15px;
+    }
+    .priceComponent .price-block .price .p-col.details .cents {
+        font-size: 25px;
+        line-height: 1;
+    }
+    .priceComponent .price-block .price .p-col.details .cents span {
+        font-size: 25px;
+    }
+    #spct_section2 .spct_section2_card{
+        height: 450px;
+    }
+    #spct_section2 .spct_section2_card > div.head{
+        height: 80px;
+    }
+    .spct_section2_card > div.head > h1{
+        font-size: 25px;
+    }
+    .spct_section2_card > span.hs_card_att_price {
+        font-size: 23px;
+        margin: 20px 0px;
+    }
+    .spct_section2_card > p.spct_chnl {
+        font-size: 16px;
+        margin-bottom: 20px
+    }
+    .spct_section2_card > P{
+        font-size: 16px;
+    }
+    #spct_section2 .spct_section2_card > a.btn{
+        left: 23%;
+    }
+    #spct_section1{
+        padding: 10px 30px;
+    }
+    .text_div_sect3 h2 {
+        font-size: 24px;
+    }
+    .text_div_sect3 h3 {
+        font-size: 2.5rem;
+    }
+    .text_div_sect3 li {
+        font-size: 21px;
+    }
+    .text_div_sect3 > p {
+        font-size: 11px;
+    }
+    .upper_specoffer_img h2 {
+        font-size: 24px;
+    }
+    .upper_specoffer_img .currency {
+        font-size: 2rem !important;
+    }
+    .upper_specoffer_img .whole {
+        font-size: 8rem !important;
+    }
+    .no_contract_rates h4 {
+        font-size: 29px;
+    }
+    .specmobile_sec3_img img {
+        width: 110%;
+        left: -25px;
+    }
+    /*________________OPTIMUM_____________________________________*/
+    .op_cheap_pic,.hughes_cheap_pic{
+        height: 100%;
+    }
+    .op_cheap_pic > img{
+        width: 500px;
+    }
+    .op_cheap_ul {
+        padding: 25px 0px 0px 90px;
+        margin-bottom: 100px;
+    }
+    .op_cheap_li {
+        padding-bottom: 40px;
+    }
+    /*_______________________SUDDENLINK_____________________*/
+    .sdln_tvin_text,#xfinity_main,#cent_last_sec{
+        width: 970px;
+    }
+    .sdbl_text_1{
+        padding: 20px;
+    }
+    .sdbl_text_2{
+        padding: 90px 20px 40px 20px;
+    }
+    .sdlink_instant_text {
+        padding: 10px 50px 0px 30px;
+    }
+    .sdlink_instant_texth{
+        font-size: 25px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+    }
+    .sdlink_instant_textp{
+        font-size: 15px;
+        padding-right: 8px;
+        padding-bottom: 10px;
+    }
+    .xfinity_header_pic > img{
+        bottom: -35px;
+    }
+
+    /*---------------------HUGHESNET-----------------------------*/
+    .hughes_deal_sec{
+        margin-bottom: 0px;
+    }
+    .hughes_cheap_pic > img{
+        width: 430px;
+    }
+    .bg_pic_blue,.bg_pic2_blue{
+        height: 350px;
+    }
+    .hughesnet_blog1_pic > img,.hughesnet_blog2_pic > img {
+        width: 450px;
+        padding-top: 80px;
+    }
+    .hughesnet_blog2_text{
+        padding-left: 50px;
+    }
+    .hughesnet_blog1_text{
+        padding-right: 50px;
+    }
+    div.hughesnet_internet_pkg > div > div.row > div > div.att_section4_card > *{
+        text-align: center;
+    }
+    /*---------------------HUGHESNET-----------------------------*/
+    /*-------------------------EARTHLINK---------------------------*/
+    .earthlink_head{
+        background-size: cover;
+        height: 500px;
+    }
+    /*-------------------------EARTHLINK---------------------------*/
+    /*-------------------------CENTURYLINK---------------------------*/
+    .century_sect1_pic{
+        width: 825px;
+    }
+    .century_sect_pic{
+        margin-left: -466px;
+    }
+    .cent_last_right > img{
+        width: 570px;
+    }
+    .cent_last_left > div > p{
+        font-size: 17px;
+    }
+    .century_section2_card > div.head{
+        height: 130px;
+    }
+    .century_section2_card > div.head > h1{
+        font-size: 27px;
+    }
+    /*-------------------------CENTURYLINK---------------------------*/
+    /*-------------------------MEDIACOM---------------------------*/
+    #mediacom_pkg_section,.mediacom_final{
+        width: 970px;
+    }
+    .golden_dot{
+        margin-right: -20px;
+    }
+    /*-------------------------MEDIACOM---------------------------*/
+    /*-------------------------SPECTRUM MOBILE---------------------------*/
+    #main_spm_section1{
+        height: 500px;
+    }
+    .logo_img_div{
+        width: 150px;
+    }
+    .spm_section1_h1 {
+        font-size: 22px;
+    }
+    .spm_section1_p {
+        font-size: 17px;
+    }
+    #spm_head_prices .before {
+        font-size: 19px;
+    }
+    #spm_head_prices .priceComponent .price-block .price .p-col.whole {
+        font-size: 40px;
+    }
+    #spm_head_prices .priceComponent .price-block .price .p-col.details .cents {
+        font-size: 20px;
+    }
+    #spm_head_prices .priceComponent .price-block .price .p-col.details .terms {
+        font-size: 12px;
+    }
+    #spm_head_prices .priceComponent .price-block .price .p-col.whole p {
+        font-size: 12px;
+        margin-top: 3px;
+    }
+
+    #spm_section2_h1{
+        font-size: 50px;
+    }
+    .spm_card_text{
+        font-size: 18px;
+    }
+    #spm_section2_ctr_full > div > div.row.justify-content-center.pb-5 > div > div > span.hs_card_att_price{
+        font-size: 22px;
+    }
+    #spm_section3_content > h1{
+        font-size: 25px;
+    }
+    #spm_section3_content > div.search_btn > div.group {
+        width: 140px;
+    }
+    #spm_section3_content > div.search_btn > div.group > input.search_input,
+    #spm_section3_content > div.search_btn > div.group > span.highlight,
+    #spm_section3_content > div > div > label{
+        font-size: 10px;
+    }
+    #spm_section3_content > div.search_btn > button.btn, #spct_search_btn > button.btn{
+        padding: 10px 15px;
+    }
+    .spm_section4{
+        width: 970px;
+    }
+    #spm_plans > div > div > div > div.head > h3 > span.num{
+        margin-top: -10px;
+    }
+
+    /*-------------------------SPECTRUM---------------------------*/
+    /*________________________________SEARCH_PAGE______________________________*/
+    .package_card_row > div.col-2 > img{
+        width: 100px;
+    }
+    .package_card{
+        padding: 100px 10px 20px 20px;
+    }
+    .package_card_row > div.col-2, .package_card_row > div.col-3{
+        margin: unset;
+    }
+    .package_card_row > div.col-3 > button.phone_btn{
+        width: unset;
+        padding: 10px;
+    }
+    .search_stars{
+        font-size: 20px;
+    }
+    /*________________________________SEARCH_PAGE______________________________*/
+    /*________________________VIVINT______________________________________________*/
+    .vivint_head_content{
+        width: 970px;
+    }
+    .viv_bgi_s{
+        background-position: right;
+    }
+    .viv_sec2_text {
+        padding: 10px 30px;
+    }
+    .viv_sec2_text > .orange_dot{
+        top: 5px;
+        left: 5px;
+    }
+    .orange_background > h1{
+        font-size: 40px;
+    }
+    .orange_background > h3 {
+        font-size: 20px;
+    }
+    .orange_background > p{
+        font-size: 18px;
+    }
+    .orange_background > iframe{
+        height: 400px;
+    }
+    .outdoor_sect_text{
+        padding: unset;
+    }
+    .outdoor_sect_text > .orange_dot{
+        top: -10px;
+        left: 215px;
+    }
+    .viv_thermo_text{
+        padding: 20px 0px 0px 30px;
+    }
+    .viv_thermo_text > h1{
+        font-size: 35px;
+    }
+    .viv_thermo_text > .orange_dot{
+        top: 30px;
+        left: 150px;
+    }
+    .viv_thermo_text > p{
+        padding: 5px 0px;
+    }
+    .v_thermo_li{
+        padding-bottom: 3px;
+        font-size: 12px;
+    }
+    .vivint_card_h > h1{
+        padding-top: 170px;
+    }
+    .bgi_bottom{
+        bottom: 0;
+    }
+    .bgi_bottom > p{
+        font-size: 20px;
+    }
+    .bgi_bottom > #call_capsule_vivint{
+        padding: 10px 9px;
+    }
+    #call_capsule_vivint > img {
+        width: 25px;
+        padding-bottom: 5px;
+    }
+    .phn_nm{
+        font-size: 15px;
+        padding-left: 10px;
+    }
+    /*________________________________TV & INTERNET_______________________*/
+    .int_bg_pic_blue,.bg_pic2_red{
+        height: 360px;
+    }
+    .internet_blog2_pic{
+        top: -90px;
+    }
+    .internet_blog2_pic > img{
+        width: 450px;
+    }
+    .internet_blog2_text{
+        margin-left: unset;
+    }
+    div.sec-2 > div.my_container.hughesnet_blog_sec1:nth-child(1),
+    div.sec-2 > div.my_container.hughesnet_blog_sec1:nth-child(2),
+    div.sec-2 > div.my_container.hughesnet_blog_sec1:nth-child(3){
+        height: fit-content;
+    }
+    .sec-2{
+        width: 100%;
+        overflow: hidden;
+    }
+     /*________________________________Contact_______________________*/
+    .contact_form_dot{
+            margin-right: -78px;
+    }
+}
+/*________________________________________________________________________css queries For Tablet sizes________________*/
+@media screen and (max-width: 992px) {
+    .navbar {
+        background-color: rgba(28,35,49,.7);
+    }
+    .navbar_white{
+        background: #fff !important;
+    }
+    .navbar-toggler-icon,
+    .navbar-toggler-icon:before,
+    .navbar-toggler-icon:after {
+        cursor: pointer;
+        border-radius: 1px;
+        height: 3px;
+        width: 35px;
+        background: #fff;
+        position: absolute;
+        display: block;
+        content: '';
+    }
+    .navbar-toggler-icon:before {
+        top: -10px;
+    }
+    .navbar-toggler-icon:after {
+        bottom: -10px;
+    }
+    .navbar_white > div > button > span.navbar-toggler-icon,
+    .navbar_white > div > button > span.navbar-toggler-icon:before,
+    .navbar_white > div > button > span.navbar-toggler-icon:after{
+        background: #000;
+    }
+    .main_head {
+        height: fit-content;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .dropbtn {
+        text-align: left;
+    }
+
+    .dropbtn > i {
+        float: right;
+    }
+
+    .my_container, .main_content {
+        width: fit-content;
+    }
+
+    .my_container {
+        /*padding: 10px 20px;*/
+    }
+
+    .main_image {
+        display: none;
+    }
+
+    .logos_box > img {
+        width: 70px;
+    }
+
+    .servies_area {
+        padding: 180px 20px 30px 50px;
+    }
+
+    div.servies_area > div > div > div:nth-child(2) {
+        padding: 10px;
+    }
+
+    .providers_section {
+        display: none;
+    }
+
+    .blog_section {
+        padding: 30px;
+    }
+
+    .blog_section > .grey_dot {
+        left: 12px;
+    }
+
+    .blog_section > .red_dot_sm {
+        left: 15px
+    }
+
+    /*------------ATT--------------------------------*/
+    #main_content_att, #att_section4, #cox_pkg_section, #cox_section5, .cox_final, .section4_text {
+        width: fit-content;
+    }
+
+    .main_cox {
+        height: fit-content;
+    }
+
+    #pkgs_heading > img {
+        width: 350px;
+    }
+
+    #pkgs_heading > h1 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    .cox_blog1_pic > img, .cox_blog2_pic > img {
+        width: 100%;
+    }
+
+    #cox_section4 {
+        background-size: cover;
+        background-position-x: -200px;
+        padding: 40px 0px
+    }
+
+    .cox_section4_dot {
+        margin-right: -33px;
+        margin-top: -24px;
+    }
+
+    .cox_section4_text {
+        width: 60%;
+        padding: 10px 20px 10px 20px;
+    }
+
+    .cox_section4_text > p {
+        margin: 20px 0px;
+    }
+
+    .cox_section5_left {
+        padding: 15px 40px 10px 20px;
+    }
+
+    .cox_section5_left > h2 {
+        font-size: 30px;
+    }
+
+    .cox_section5_left > div > p {
+        padding-right: 33px;
+        line-height: 1.5em;
+    }
+    #section5_green {
+        height: 310px;
+    }
+
+    .cox_section5_right > img {
+        width: 410px;
+        height: 310px;
+        right: -35px;
+        bottom: 0px;
+    }
+
+    .cox_section5_right > p {
+        line-height: 1.6em;
+    }
+
+    .cox_final {
+        margin-top: 50px;
+    }
+
+    .cox_final_p {
+        line-height: 1.5;
+    }
+
+    /*------------COX END--------------------------------*/
+    /*-----------DIRECT-------------------------------------*/
+    #main_direct {
+        background-size: cover;
+        background-position-x: -340px;
+        padding-top: 90px;
+    }
+
+    #direct_section1, #direct_section2, #direct_section5, #direct_last_content {
+        width: 80%;
+    }
+
+    .best_dtv_deals1_pic > img {
+        margin-left: -290px;
+        width: 550px;
+        height: 100%;
+    }
+
+    .best_dtv_deals2_text {
+        padding-right: 0px;
+    }
+
+    .best_dtv_deals2_pic > img {
+        margin-right: -200px;
+        width: 500px;
+        height: 100%;
+    }
+
+    #direct_section5 > span.dot {
+        right: 10px;
+    }
+
+    .dtv_description {
+        height: 1000px;
+        background-size: cover;
+    }
+
+    .dtv_descript_text {
+        padding: 20px;
+        width: fit-content;
+    }
+
+    .best_dtv_deals2 {
+        overflow-x: hidden;
+    }
+
+    /*-----------DIRECT END----------------------------------*/
+    /*--------------------FRONTIER STARTS----------------------*/
+    .main_frontier {
+        padding-top: 70px;
+        height: 400px;
+    }
+
+    #main_logo_att > img {
+        width: 250px;
+    }
+
+    #main-capsule {
+        margin-top: 30px;
+    }
+
+    #main_content_frontier > div#main-capsule > div.capsule_content {
+        font-size: 15px;
+    }
+
+    .frontier_entertainment, .frontier_getdish {
+        height: 400px;
+    }
+
+    .frontier_entertainment_text, .frontier_getdish_text {
+        padding: 0px 10px;
+    }
+
+    .frontier_descript_h {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+
+    .frontier_descript_p {
+        padding: 5px 20px;
+        font-size: 14px;
+    }
+
+    #frontier_section2 {
+        height: fit-content;
+    }
+
+    #frontier_section2 {
+        padding: 45px 0px;
+        margin-top: -0px;
+    }
+
+    .frnt_section5_content {
+        padding-top: 10px;
+    }
+
+    .frnt_section5_content > p {
+        line-height: 1.6;
+    }
+
+    #frnt_section5_inner, #frnt_section1 {
+        width: fit-content;
+        padding: 0px 15px;
+    }
+
+    #frnt_section5_inner > div > div:nth-child(2) > img {
+        width: 100%;
+    }
+
+    #frontier_section6 {
+        padding: 50px 20px;
+        height: fit-content;
+    }
+
+    .frnt_card_white {
+        padding: 10px;
+    }
+
+    .frnt_card_white > div {
+        padding: 20px 10px;
+        width: 90%;
+        height: 125px;
+        margin: 0px auto;
+        margin-top: -40px;
+    }
+
+    .hs_card_att > div > h2 {
+        font-size: 1.1rem;
+    }
+
+    .frnt_card_price {
+        font-size: 25px;
+    }
+
+    #frnt_last_section {
+        padding-top: 100px;
+    }
+
+    /*--------------------FRONTIER END----------------------*/
+    /*--------------------SPECTRUM START----------------------*/
+    #main_content_spectrum {
+        justify-content: center;
+        width: fit-content;
+    }
+    #spct_section1, #spct_section4_content, .spct_section5_content {
+        width: fit-content;
+        padding: 0px 15px;
+    }
+
+    #spct_search_btn > button.btn {
+        width: 149px;
+    }
+    .upper_specoffer_img .whole {
+        font-size: 6rem !important;
+    }
+    .no_contract_rates h4 {
+        font-size: 23px;
+    }
+    .text_div_sect3 h3 {
+        font-size: 1.5rem;
+    }
+    .section3_specmobile li p{
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+    .text_div_sect3 > p {
+        font-size: 8px;
+    }
+    .specmobile_sec3_img,.text_div_sect3{
+        padding: 40px 0px;
+    }
+
+        /*--------------------SPECTRUM END----------------------*/
+    /*--------------------SPECTRUM Mobile Start----------------------*/
+    #main_spm_section1 {
+        height: fit-content;
+        padding-top: 55px;
+        background: linear-gradient(to right, var(--ltgray) 80%, #529ae3 20%);
+    }
+    #spm_section1_container {
+        padding-top: 0px;
+    }
+    .logo_img_div {
+        width: 300px;
+        object-fit: cover;
+    }
+    #spm_section1_row2_col1 {
+        z-index: 99;
+        padding-right: 20px;
+    }
+
+    #spm_section1_h1 {
+        font-size: 1.5rem;
+    }
+    .logo_img_div {
+        margin-bottom: 1rem;
+    }
+    .spm_section1_p {
+        font-size: 16px;
+    }
+    .spm_s1_img {
+        margin-left: -20px;
+        padding-top: 20px;
+        width: 400px;
+        height: 320px;
+    }
+    .spm_section1_white_icon {
+        width: 26px;
+        margin-bottom: 30px;
+    }
+    #spm_section3_content > h1 {
+        font-size: 28px;
+        font-weight: 900;
+        margin: 20px 0px;
+    }
+    .img_div_sec3 {
+        object-fit: cover;
+        height: fit-content;
+    }
+
+    #spm_section4,
+    .section4_text {
+        width: fit-content;
+    }
+    #spm_section4_img {
+        margin-top: 10px;
+    }
+    #spm_section3_content > p {
+        font-size: 14px;
+    }
+    /*--------------------SPECTRUM MObile END----------------------*/
+    /*--------------------OPTIMUM START----------------------*/
+    #optimum_head_content {
+        width: fit-content;
+    }
+
+    .op_deals_text {
+        padding: 60px 51px;
+    }
+
+    /*.op_cheap_inter {*/
+    /*    padding-bottom: 100px;*/
+    /*}*/
+    div.op_cheap_inter > div.my_container{
+        padding: 0px 20px;
+    }
+
+    .op_cheap_pic > img {
+        width: 100%;
+    }
+
+    .op_cheap_ul {
+        padding-left: 15px;
+    }
+
+    .op_cheap_p {
+        padding: 35px 40px 35px 15px;
+    }
+
+    .op_cheap_li {
+        padding-bottom: 10px;
+    }
+    .optimum_blog1_pic > img,.optimum_blog2_pic > img {
+        width: 650px;
+    }
+    .optimum_blog1_text{
+        padding: 0px;
+    }
+
+    /*--------------------OPTIMUM END----------------------*/
+    /*------------------------SUDDENLINK START-----------------------------*/
+    .sdlink_head_items {
+        width: fit-content;
+    }
+
+    #main-capsule > div {
+        font-size: 15px;
+    }
+
+    .sd_pkg_h {
+        padding: 40px 15px;
+    }
+
+    .sd_pkg_h1 {
+        font-size: 30px;
+    }
+
+    .sd_pkg_h2 {
+        font-size: 45px;
+    }
+
+    .suddenlink_internet_pkg {
+        padding-bottom: 0px;
+    }
+
+    .sdln_section_3 > .row > div.col-md-6 {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .sdln_tvin_text, .sdlink_tvint_cardboxes,.sdln_last_sec1{
+        width: fit-content;
+    }
+
+    .sdlink_instant_text {
+        padding: 35px;
+        text-align: justify;
+    }
+    /*------------------------SUDDENLINK END-----------------------------*/
+    /*-------------------------XFINITY START----------------------------*/
+    #xfinity_main{
+        width: fit-content;
+        padding: 100px  30px 30px;
+    }
+    .xfinity_header_pic > img{
+        bottom: -38px;
+        right: 60px;
+    }
+    .xfinity_3rdsec_t{
+        width: fit-content;
+    }
+    .xfinity_dot {
+        margin-top: -27px;
+        margin-right: 0px;
+    }
+    .xf_4thsec_pic{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    /*-------------------------XFINITY END----------------------------*/
+    /*--------------------------HUGHESNET START---------------------*/
+    .hughesnet_dot {
+        left: 200px;
+    }
+    .hughesnet_internet_pkg{
+        padding-bottom: 0px;
+    }
+    .hughesnet_blog1_text{
+        padding: 60px 30px 10px 10px;
+    }
+    .hughesnet_blog2_text{
+        padding: 30px 10px 10px 30px;
+    }
+    .hughes_cheap_pic > img {
+        width: 100%;
+        margin: 0px;
+        padding: 0px 10px 10px;
+    }
+    /*--------------------------HUGHESNET END---------------------*/
+    /*---------------------------EARHTLINK START--------------------*/
+    #earthlink_section1,#earthlink_sec3{
+        width: fit-content;
+        padding: 50px 20px;
+        margin: 0px auto;
+    }
+    #earthlink_sec3{
+        text-align: justify;
+    }
+    .el_sec3_back{
+        width: 400px;
+        height: 530px;
+    }
+    #earthlink_sec3 > div > div > div > img {
+        width: 404px;
+    }
+    div.el_sec3_right{
+        border-bottom: 529px solid #ec8c22;
+        border-left: 495px solid transparent;
+    }
+    div.el_sec3_yel{
+        border-top: 324px solid #4d4f54;
+        border-right: 318px solid transparent;
+    }
+    #el_section4, .el_section5_content,#el_section5{
+        width: fit-content;
+        padding: 20px 20px;
+    }
+    /*---------------------------EARHTLINK END-------------------*/
+    /*---------------------------CENTURYLINK START-------------------*/
+    .century_h1{
+        font-size: 60px;
+    }
+    #century_section1{
+        width: 750px;
+    }
+    .century_sect_pic{
+        width: 800px;
+        margin-left: -400px;
+        top: -140px;
+    }
+    .century_sect1_pic {
+        width: 625px;
+    }
+    .cent_last_right > img {
+        width: 500px;
+    }
+    .century_sec4,#cent_last_sec{
+        width: fit-content;
+    }
+    .cent_last_left > div > p ,.cent_last_right > p{
+        font-size: 17px;
+    }
+    .century_section2_card > div.head {
+        height: 100px;
+    }
+    .century_section2_card > div.head > h1 {
+        font-size: 20px;
+    }
+    /*---------------------------CENTURYLINK END-------------------*/
+    /*---------------------------MEDIACOM START-------------------*/
+    .mediacom_head{
+        height: 400px;
+        padding-top: 55px;
+    }
+    #mediacom_pkg_section, .mediacom_final {
+        width: fit-content;
+    }
+    .mdcom_sec4_cont {
+         width: unset;
+        padding: 100px 50px;
+    }
+    #main_text_mediacom{
+        padding-left: 20px;
+        margin-top: 20px;
+    }
+    #main_text_mediacom > img {
+        width: 250px;
+        margin: 20px 0px;
+    }
+    #main_text_mediacom > p{
+        font-size: 20px;
+    }
+    #call_capsule_mediacom{
+        font-size: 13px;
+        margin: 20px 0px;
+        width: 250px;
+    }
+
+    /*---------------------------MEDIACOM END-------------------*/
+    /*---------------------------INTERNET START-------------------*/
+    .internet_dot{
+        bottom: -19px;
+        left: 65px;
+    }
+    #main_tv  {
+        height: fit-content;
+        background-size: cover;
+    }
+    .int_bg_pic_blue,.bg_pic_blue{
+        height: 205px;
+        top: 77px;
+        margin-top: 80px;
+    }
+    .hughesnet_blog1_p{
+        font-size: 13px;
+    }
+    .hughesnet_blog1_pic > img ,.internet_blog2_pic > img{
+        width: 370px;
+        padding-top: 50px;
+    }
+    .internet_blog2_pic > img{
+        padding-top: 60px;
+    }
+    .bg_pic2_red{
+        height: 250px;
+    }
+    .internet_blog2_text{
+        padding-top: 0px;
+    }
+    /*---------------------------INTERNT END-------------------*/
+    /*-----------------------------FOOTER START-------------------------*/
+    .newsletter_form > div > div >*{
+        margin: auto;
+    }
+    .newsletter_form {
+        width: 100%;
+        height: 80px;
+        padding: 20px 30px;
+        padding-top: 25px;
+        top: -40px;
+    }
+    .newsletter_form > div > div > h3 {
+        font-size: 14px;
+    }
+    .newsletter_btn{
+        padding: 13px 12px;
+        font-size: 13px;
+        width: 100px;
+    }
+    .footer_circle_red{
+        left: -90px;
+    }
+    .footer_white_dot {
+        left: 24px;
+    }
+    /*#footer_search_btn > div.group {*/
+    /*    width: 70%;*/
+    /*}*/
+    /*#footer_search_btn {*/
+    /*    width: 600px;*/
+    /*}*/
+    /*-----------------------------Search START-------------------------*/
+    .search_stars{
+        font-size: 15px;
+    }
+
+
+    /*-----------------------------------CONTACT---------------------*/
+    .contact_head{
+        height: 500px;
+    }
+    .contact_cards,.contact_form,.contact_head_text{
+        width: fit-content;
+    }
+    .contact_form_dot {
+        margin-right: 0px;
+        margin-top: -25px;
+    }
+
+}
+@media screen and (max-width: 768px){
+    .modem_section_pic,#red_section .modem_section_pic {
+        width: 300px;
+        margin-top: 100px;
+    }
+    .att_section4_card.direct_section2_card > * {
+        text-align: center;
+    }
+    .newsletter_form > div > div > input.form-control {
+        height: 44px;
+    }
+    .newsletter_btn{
+        padding: 11px 12px;
+    }
+    .newsletter_form > div > div > h3 {
+        padding: 5px 0px;
+        text-align: center;
+    }
+    .steps_section{
+        margin-bottom: 50px;
+    }
+    #usa .zoom{
+        zoom: 100%;
+    }
+    /*_____________________________________ATT_______________________________________________*/
+    .hs_card_att > *,.card_ip_att_body > *,.att_section4_card > *{
+        text-align: center;
+    }
+
+    .int_bg_pic_blue, .bg_pic_blue,.bg_pic2_red,.bg_pic2_blue{
+        margin-top: 0px;
+        height: 150px;
+    }
+    .hughesnet_blog1_pic > img,.internet_blog2_pic > img ,.hughesnet_blog2_pic > img{
+        width: 250px;
+        padding-top: 70px;
+    }
+    .internet_blog1_text{
+        margin-top: 110px;
+    }
+    .bg_pic2_red{
+        top: 0px;
+        left: 40%;
+        width: 65%;
+    }
+    .internet_blog2_pic {
+        left: -100px;
+        top: -97px;
+    }
+    .internet_blog2_text{
+        padding: 20px 50px;
+    }
+    .internet_blog2_text > *{
+        text-align: justify;
+    }
+/*---------------------------------SPECTRUM ---------------------------------*/
+    #main_spm_section1 {
+        height: fit-content;
+        background: linear-gradient(to right, var(--ltgray) 100%, #529ae3 0%);
+    }
+
+    .my_container {
+        width: fit-content;
+    }
+    p {
+        text-align: justify;
+    }
+    #spm_section1_logo_img {
+        width: 270px;
+        padding: 10px;
+    }
+    #spm_section1_h1 {
+        font-size: 1.5rem;
+    }
+    .spm_section1_p {
+        text-align: center;
+    }
+    .logo_img_div {
+        margin-bottom: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #spm_section1_row2_col1 {
+        z-index: 99;
+        padding: 0px 0px 20px 0px;
+    }
+    .spm_section1_h1_text {
+        text-align: center;
+    }
+    .spm_section1_callme {
+        text-align: center;
+    }
+    #spm_section1_row2_img_col,
+    .spm_section1_col2 {
+        display: none;
+    }
+    /*#spct_section2 {*/
+    /*    position: relative;*/
+    /*    top: 550px;*/
+    /*}*/
+    .price-visual h2{
+        font-size: 20px;
+    }
+    #spct_section2 .spct_section2_card > a.btn {
+        left: 27%;
+    }
+    #spm_section1_row2_col1 > div > .logo_img {
+        width: 320px;
+    }
+    #spm_sec1-ring_us_now {
+        padding-left: 5px;
+    }
+    #spm_section2_h1 {
+        font-size: 38px;
+        font-weight: bolder;
+    }
+    .spm_section2_p_div {
+        padding: 0px;
+        margin: 20px auto;
+    }
+    #spm_section3_content > h1 {
+        font-weight: 900;
+        font-size: 20px;
+        margin: 20px 0px;
+    }
+    #spm_section3_content > div.search_btn > button.btn,
+    #spct_search_btn > button.btn {
+        background: var(--blue);
+        width: 135px;
+    }
+    .spm_section3_row1 {
+        margin: 60px 0px 30px 0px;
+    }
+    #spm_section3_content > div.search_btn {
+        margin: 30px 0px;
+        padding: 6px 10px;
+    }
+    #spm_section3_content {
+        background-color: RGBA(20, 50, 88, 0.9);
+        padding: 16px 20px 20px 20px;
+    }
+    .search_btn > img {
+        padding: 1px 0px;
+    }
+    #spm_section3_content > div.search_btn > div.group {
+        width: 300px;
+    }
+    #spm_section3_content > div.search_btn > div.group > input.search_input, #spm_section3_content > div.search_btn > div.group > span.highlight, #spm_section3_content > div > div > label {
+        font-size: 10px;
+    }
+    #spm_section3_content > div.search_btn > button.btn{
+        padding: 10px 6px;
+    }
+    #spm_section3_row1_col2 .img_div_sec3 {
+        object-fit: cover;
+        height: fit-content;
+        padding: 0px;
+    }
+    .spm_section4 {
+        width: fit-content;
+        padding: 50px 30px;
+    }
+    .spm_plan_cards{
+        margin: 0px;
+    }
+    .spm_plan_cards{
+        margin-bottom: 50px;
+    }
+    div.spm_card_body > p{
+        text-align: center;
+    }
+    #spm_plans > div > div > div > div.head{
+        width: 98%;
+    }
+    /*.row > * {*/
+    /*    flex-shrink: 0;*/
+    /*    max-width: 100%;*/
+    /*    padding-right: calc(var(--bs-gutter-x) * 0);*/
+    /*    padding-left: calc(var(--bs-gutter-x) * 0);*/
+    /*    margin-top: var(--bs-gutter-y);*/
+    /*}*/
+    #spm_section4 {
+        width: fit-content;
+    }
+    .section4_text {
+        width: fit-content;
+        margin: 0px auto;
+    }
+
+    .spm_section4_card > button {
+        margin-bottom: -17px;
+        font-size: 9px;
+        padding: 6px 15px;
+    }
+    .spm_section4_card {
+        margin: 10px 0px 25px 0px;
+    }
+    .spm_section4_card > h1 {
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 25px;
+    }
+    .spm_section4_card > span.hs_card_att_price {
+        font-size: 18px;
+    }
+    .spm_section4_card > p {
+        margin: 8px 0px;
+    }
+    .spm_section4_card > button {
+        margin-top: 0px;
+    }
+
+    .spm_section4_card > p {
+        font-size: 13px;
+    }
+    .frnt_card1 > *,.frnt_black_card > *,.frnt_card_white > *{
+        text-align: center;
+    }
+    #spct_section4_content > div:nth-child(3) > img{
+        width: 600px;
+    }
+    .spct_section5_content > div:nth-child(5) > img{
+        margin-left: 0px;
+        width: 450px;
+    }
+    .specmobile_sec3_img img {
+        position: unset;
+        margin-left: -90px;
+    }
+    /*_______________________________________________DIRECTV____________________________*/
+    .direct_section6_card >div.head > h1{
+        font-size: 20px;
+    }
+    .direct_section6_card >div.head{
+        height: 150px;
+    }
+    .att_section4_card.direct_section6_card > * {
+        text-align: center;
+    }
+    /*_______________SDNLINK____________________________________________*/
+    .sdlink_instant_img > img{
+        margin-left: 0px;
+    }
+    /*----------------------CENTURYLINK-----------------------------------*/
+    #century_section1 {
+        width: fit-content;
+    }
+    .century_sect1_pic{
+        width: 625px;
+    }
+    .century_sect_pic {
+        margin-left: -355px;
+        top: -140px;
+        width: 700px;
+    }
+    .cent_color_bg{
+        height: 500px;
+    }
+    .cent_sect1_text{
+        font-size: 13px;
+    }
+    .cent_sect1_whitetext {
+        font-size: 22px;
+        padding-right: 100px;
+    }
+    .cent_last_left > img {
+        width: 260px;
+    }
+    .cent_last_left > div > p, .cent_last_right > p {
+        font-size: 13px;
+        letter-spacing: 0vh;
+    }
+    .cent_last_right > img {
+        width: 450px;
+        height: 360px;
+    }
+    #cent_last_green{
+        height: 370px;
+    }
+
+    /*_______________________XFINITY__________________________________________*/
+    #xfinity_ch{
+        padding: 30px 20px 20px;
+        margin: 0px;
+    }
+    div.xfinity_cards_sec > div > div > div > div > div.att_section4_card.spct_section2_card{
+        padding: 10px;
+    }
+    #xfinity_ch > h1{
+        font-size: 20px;
+    }
+    .xf_4thsec_h1 {
+        font-weight: 800;
+        padding-bottom: 11px;
+        font-size: 20px;
+    }
+    .xf_4thsec_p {
+        line-height: 1.2rem;
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+    div.xf_4thsec2_b > div > div.col-md-5{
+        margin-top: 0px;
+    }
+    #xf_4thsec_text2,.xf_4thsec_text {
+         padding: 20px;
+    }
+    /*_______________________XFINITY__________________________________________*/
+    /*_______________________MEDIACOM__________________________________________*/
+    .mediacom_card_sec1{
+        width: 670px;
+    }
+    div.mediacom_card_sec > div > div > div > div > p,
+    #mediacom_pkg_section > div > div.row > div > div > p{
+        text-align: center;
+    }
+
+    /*_______________________MEDIACOM__________________________________________*/
+    /*________________________VIVINT______________________________________________*/
+    .vivint_head_content{
+        width: fit-content;
+        padding: 120px 0px 50px;
+    }
+    .orange_background{
+        padding: 25px;
+        padding-bottom: 40px;
+    }
+    .orange_background > h1{
+        padding-top: 100px;
+        font-size: 30px;
+    }
+    .orange_background > h3 {
+        font-size: 18px;
+    }
+    .orange_background > p {
+        font-size: 18px;
+    }
+    .orange_background > iframe{
+        height: 370px;
+        padding-right: unset;
+    }
+    /*________________________VIVINT______________________________________________*/
+    /*__________________________________FOOTER____________________________________*/
+    button.chatbox-open{
+        width: 50px;
+    }
+    button.chatbox-open > img{
+        width: 50px;
+    }
+    .welcome_msg::before {
+        border-width: 12px;
+    }
+    /*____________________SEARCH STYLING___________________________________________________*/
+    .package_card_row > div.col-2 > p{
+        margin-bottom: 0px;
+    }
+    .package_card_row > div.col-2 > p.disc_text {
+        font-size: 8px;
+    }
+    .package_card_row > div.col-3 > button.phone_btn{
+        padding: 10px 5px;
+    }
+    .package_card_row  div.col-2  img {
+        width: 100px;
+    }
+}
+
+/*_____________________________________________________________css queries for screen sizes below 700px________________*/
+@media screen and (max-width: 712px) {
+    .main_head{
+        background-size: cover;
+        height: fit-content;
+    }
+    .my_container{
+        width: fit-content;
+    }
+    p{
+        text-align: justify;
+    }
+    .blue_heading{
+        font-size: 29px;
+    }
+    .navbar {
+        background-color: #1C2331
+    }
+    #navbarSupportedContent{
+        width: 100%;
+    }
+    #navbarSupportedContent > ul >li{
+        text-align: center;
+    }
+    .dropbtn {
+        text-align: center;
+    }
+    .dropbtn > i{
+        float: unset;
+    }
+    .dropdown-content{
+        padding-top: 0px;
+    }
+    .dropdown:hover .dropdown-content {
+        display: block;
+        position: unset;
+        width: 100%;
+        text-align: left;
+        box-shadow: none;
+        transition: 0.5s ease-in-out;
+    }
+    .dropdown-content a{
+        background-color: #1C2331;
+        color: #fff;
+    }
+    .dropdown-content a:hover{
+        color: #a61e1e;
+        background-color: #1C2331;
+    }
+    .dropdown-content > a > svg > line{
+        stroke: #fff;
+    }
+    .dropdown-content a:hover svg > line{
+        stroke: #a61e1e;
+    }
+    .main{
+        height: 600px;
+    }
+    .main_content{
+        width: 100%;
+        left:unset;
+    }
+    .main_text{
+        margin-top: 30%;
+        width: fit-content;
+        padding: 0px 20px;
+    }
+    .type_form {
+        margin-top: 80px;
+    }
+    .main_text > h1{
+        font-size: 28px;
+    }
+    .main_text > p{
+        font-size: 14px;
+    }
+    .type_form > .col-form-label{
+        font-weight: 500;
+        display: block;
+    }
+    .type_form > label{
+        font-size: 10px;
+    }
+    .search_btn {
+        padding: 2px 4px;
+        /*width: 350px;*/
+    }
+    .group{
+        width: 50%;
+    }
+    .search_input{
+        font-size: 14px;
+    }
+    .highlight{
+        top: 15%;
+    }
+    .search_label{
+        font-size: 14px;
+    }
+    .search_input:focus ~ .search_label, .search_input:valid ~ .search_label{
+        top: -5px;
+        font-size: 12px;
+    }
+    .search_btn > button{
+        letter-spacing: 0;
+        font-size: 8px;
+    }
+    .search_btn > button > i{
+        font-size: 10px;
+        margin-right: 0.5vh
+    }
+    .main_image{
+        display: none;
+    }
+    .logos_box{
+        margin-top: -30px;
+        padding: 10px 20px;
+    }
+    .logos_box > img{
+        width: 50px;
+        margin: 5px 8px;
+    }
+    .servies_area{
+        padding: 10px;
+        padding-top: 100px;
+    }
+    div.servies_area > div > div > div:nth-child(2){
+        padding: 20px;
+    }
+    .servies_area > div > div > div >.red_dot_lg {
+        bottom: unset;
+        left: -25px;
+        top: 30px;
+    }
+    .servies_area > div > div > div > .white_dot{
+        top: 30px;
+        left: -20px;
+        bottom: unset;
+    }
+    .providers_section{
+        display: none;
+    }
+    .steps_section > h1.blue_heading{
+        font-size: 22px;
+        width: 90%;
+    }
+    #modem_section > div > div > div:nth-child(1) > h2{
+        font-size: 20px;
+    }
+    #modem_section .modem_text p,.red_text > p{
+        padding: 5px 0px;
+        font-size: 13px;
+    }
+    .red_text > p{
+        margin: 10px 0px;
+        line-height: unset;
+        letter-spacing: unset;
+    }
+    .modem_section_pic,#red_section .modem_section_pic{
+        margin-top: 0px;
+    }
+    #red_section .modem_section_pic{
+        margin-bottom: 50px;
+    }
+    #red_section > div > div > div:nth-child(2) > h2 > strong {
+        line-height: unset;
+        font-size: 20px;
+    }
+    .map_section{
+        padding: 20px;
+    }
+    .map_section_heading{
+        width: 100%;
+        font-size: 18px;
+        padding: 0px;
+        position: relative;
+        z-index: 9;
+    }
+    .map_section > h3.text_blue{
+        z-index: 99;
+        position: relative;
+    }
+    #geochart{
+        height: 320px;
+    }
+    #geochart > div{
+        position: relative;
+    }
+    #usa .zoom{
+        zoom: 70%;
+        width: 100%;
+        height: 400px;
+    }
+    .blog_section{
+        padding: 30px 20px;
+        padding-bottom: 60px;
+    }
+
+    .footer{
+        height: fit-content;
+    }
+    .newsletter_form{
+        width: 100%;
+        height: fit-content;
+        padding: 20px 0px;
+        border-radius: 22px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .newsletter_form > div > div:nth-child(1){
+        width: 100%;
+    }
+    .newsletter_form > div > div > h3{
+        font-size: 16px;
+    }
+    .newsletter_form > div > div > input.form-control {
+        height: 40px;
+        margin: 3px 0px;
+        border-radius: 10px;
+    }
+    .newsletter_btn {
+        /*position: absolute;*/
+        /*bottom: -20px;*/
+        /*left: 34%;*/
+        padding: 10px 20px;
+        border-radius: 9px;
+    }
+    .footer_circle_red{
+        left: -118px;
+    }
+    .footer_white_dot {
+        left: -3px;
+    }
+    #footer_search_btn > div.group{
+        width: 157px;
+    }
+    #footer_search_btn > button{
+        font-size: 7px;
+    }
+
+
+
+    /*************___________________AT&T QUERIES____________***************************/
+
+    .main_att{
+        height: 400px;
+        padding: 40px 0px;
+    }
+    #main_content_att{
+        width: fit-content;
+    }
+    #main_logo_att > img{
+        width: 120px;
+    }
+    #main_text_att > h1{
+        font-size: 20px;
+    }
+    #main_text_att > h2{
+        font-size: 21px;
+    }
+    #main-capsule > div {
+        font-size: 10px;
+    }
+    #main-capsule > div > span:nth-child(1){
+        margin-right: 5px;
+    }
+    #main-capsule > div > span:nth-child(2){
+        margin: 0px 5px;
+    }
+    #main-capsule > div > span:nth-child(3){
+        margin-left: 5px;
+    }
+    .capsule_content {
+        padding: 4px 25px;
+    }
+    #hs_plan_att{
+        width: fit-content;
+    }
+    #hs_plan_att > h2{
+        font-size: 19px;
+    }
+    .att_h1{
+        font-size: 30px;
+    }
+    .att_h2{
+        font-size: 15px;
+    }
+
+    #hs_plan_att > div > div{
+        width: 100%;
+    }
+    .internet_plans_att{
+        padding-bottom: 100px;
+    }
+    .m_internet_plans_att{
+        padding-top: 10px;
+    }
+    body > div.internet_plans_att > div > div > div.container_cards_ip > div > div:nth-child(2) > div{
+        /*margin-top: 50px;*/
+    }
+    #att_section4,.section4_text{
+        width: fit-content;
+    }
+    .section4_text > h1{
+        font-size: 25px;
+    }
+    .section4_dark_text > div > div{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .text_dark_att,.card_ip_att_body > p,.hs_card_att > p{
+        text-align: center;
+    }
+    #att_section4_img{
+        margin-top: 10px;
+    }
+    .card_ip_att_head{
+        height: fit-content;
+        font-weight: 700;
+        padding: 10px 20px;
+    }
+    .card_ip_att_head > h2 {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .ip_package{
+        padding-top: 5px;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .card_ip_att > button,.att_section4_card > button{
+        margin-bottom: -17px;
+        font-size: 9px;
+        padding: 6px 15px;
+    }
+    .att_section4_card {
+        margin: 10px 0px 25px 0px;
+    }
+    .att_section4_card > h1{
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 25px;
+    }
+    .att_section4_card > span.hs_card_att_price{
+        font-size: 18px;
+    }
+    .att_section4_card > p {
+        margin: 8px 0px;
+    }
+    .att_section4_card > button {
+         margin-top: 0px;
+    }
+    .last_section_card > p:nth-child(6) {
+        margin-bottom: 20px;
+    }
+    .last_section_card > span.hs_card_att_price {
+        margin: 10px 0px;
+        font-size: 15px;
+    }
+    .last_section_card > h1 {
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .at_blog2{
+        display: none;
+    }
+    #blog_sm{
+        display: block;
+    }
+    .at_blog_text,.at_blog2_text {
+        padding-top: 24px;
+        line-height: 1.5;
+        padding-right: 0px;
+        font-size: 13px;
+        font-weight: 450;
+    }
+    .at_blog2_pic{
+        padding: 0px;
+    }
+    .at_blog2_pic > img {
+        margin-right: -39px;
+    }
+    /*************___________________AT&T QUERIES END____________***************************/
+
+
+
+    /*************___________________COX QUERIES START____________***************************/
+    .main_cox,#cox_section4{
+        background-size: cover;
+        height: 500px;
+    }
+    #main_content_cox{
+        width: fit-content;
+    }
+    .cox_blog2,#main_img_cox{
+        display: none;
+    }
+    .cox_blog1_pic>img, .cox_blog2_pic>img{
+        width: 100%;
+    }
+    .cox_blog1_pic > div.green_dot{
+        right: -19px;
+    }
+    .cox_blog1_h1{
+        font-size: 65px;
+    }
+    .cox_blog1_h2{
+        font-size: 18px;
+    }
+    .cox_blog1_p{
+        font-size: 13px;
+        padding-top: 8px;
+    }
+    .cox_blog2{
+        margin-top: 30px;
+    }
+    .cox_blog2_p {
+        font-size: 13px;
+        padding-top: 15px;
+    }
+    .cox_section4_text{
+         width: 100%;
+         float: unset;
+        padding: 10px;
+    }
+    #cox_section4{
+        padding: 50px 0px;
+        margin-bottom: 10px;
+        background-position-y: 0px;
+    }
+    .cox_section4_dot{
+        margin-right: -22px;
+        margin-top: -27px;
+    }
+    .cox_section4_text > p {
+        font-size: 13px;
+        line-height: 1.5;
+        margin: 8px 0px;
+    }
+    #cox_pkg_section,#cox_section5{
+        width: fit-content;
+    }
+    #cox_section5{
+        margin-bottom: 0px;
+    }
+    #pkgs_heading > img{
+        width: 100%;
+    }
+    #pkgs_heading > h1{
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .cox_pkg_card > h1{
+        margin: 10px auto;
+    }
+    .cox_pkg_card > p:nth-child(5) {
+        margin-bottom: 20px;
+    }
+    .cox_section5_left{
+        padding: 20px 20px 5px 20px;
+    }
+    .cox_section5_left > h1{
+        font-size: 60px;
+        margin-bottom: -10px;
+    }
+    .cox_section5_left > h2 {
+        font-size: 20px;
+    }
+    .cox_section5_left > div{
+        margin-top: 0px;
+    }
+    .cox_section5_left > div > p {
+        padding: 10px 10px 0px 0px;
+    }
+    #section5_green{
+        display: none;
+    }
+    .cox_section5_right > img{
+        position: unset;
+        width: 100%;
+        height: fit-content;
+    }
+    .cox_section5_right{
+        height: fit-content;
+    }
+    .cox_final{
+        background-size: cover;
+        height: fit-content;
+        width: fit-content;
+        margin-top: 50px;
+    }
+    .cox_final_h1{
+        font-size: 45px;
+    }
+    .cox_final_h2{
+        font-size: 18px;
+        margin-top: -10px;
+        padding-bottom: 10px;
+    }
+    .cox_final_p {
+        line-height: 1.5;
+        padding-bottom: 8px;
+    }
+    .cox_final_text {
+         padding: 0px;
+    }
+
+
+    /*************___________________COX QUERIES END____________***************************/
+    /*************___________________DIRECTV QUERIES STARTS____________***************************/
+
+    #main_direct,.main_frontier{
+        background-size: cover;
+        height: 450px;
+    }
+    #main_direct_content{
+        width: fit-content;
+    }
+    #main_direct_content > img {
+        width: 110px;
+        margin: 15px auto;
+        margin-top: 30px;
+    }
+    #main_direct_content > P {
+        font-size: 16px;
+        text-align: center;
+    }
+    #main_direct_content > div#call_capsule_cox{
+        margin: 15px auto;
+    }
+    #main_direct_content > div#call_capsule_cox > img {
+        width: 30px;
+    }
+    #main_direct_content > div#call_capsule_cox > span {
+        font-size: 13px;
+    }
+    #dish_icon {
+        margin-right: 140px;
+        width: 130px;
+    }
+    #direct_section1{
+        width: fit-content;
+        padding: 50px 20px;
+        margin-top: 0px;
+    }
+    .h1_directv{
+        font-size: 25px;
+    }
+    #direct_section1 > span.dot{
+        right: 0px;
+        top: 126px;
+    }
+    #direct_section1 > h2 {
+        font-size: 14px;
+        font-weight: 700;
+        margin: 0px 0px;
+    }
+    #direct_section1 > p {
+        margin: 10px 0px;
+        font-size: 13px;
+        line-height: 2;
+    }
+    #direct_section2,#direct_section5,#direct_last_content{
+        width: fit-content;
+        padding: 50px 7px;
+    }
+    #direct_section2 > span.dot,#direct_section5 > span.dot{
+        right: 15px;
+    }
+    .direct_section2_card > h1{
+        margin-bottom: 15px;
+    }
+    .direct_section2_card > p{
+        margin: 0px;
+        font-size: 13px;
+    }
+    .direct_section2_card > p.chnl {
+        margin-bottom: 20px;
+    }
+    .best_dtv_deals2{
+        display: none;
+    }
+    .best_dtv_deals1_h{
+        padding-bottom: 20px;
+    }
+    .b_dtv_htext{
+        font-size: 31px;
+    }
+    .best_dtv_deals1_pic > img {
+        margin-left: -40px;
+        width: 100%;
+    }
+    .best_dtv_deals1_text,.best_dtv_deals2_text  {
+        padding-top: 25px;
+        padding-right: 0px;
+    }
+    .b_dtv_text {
+        line-height: 1.5;
+        padding-bottom: 7px;
+        font-size: 13px;
+    }
+    .best_dtv_deals2_pic > img {
+        margin-right: -40px;
+        width: 100%;
+    }
+    #direct_section5{
+        margin-top: 0px;
+        font-size: 13px;
+    }
+    .direct_section2_card > p.d_speed{
+        margin: 20px auto;
+        width: 90%
+    }
+    .dtv_description{
+        width: 100%;
+        height: 950px;
+        background-size: cover;
+        padding-top: 70px;
+    }
+    .dtv_descript_text {
+        width: fit-content;
+        padding: 10px 7px;
+    }
+    .dtv_descript_p{
+        font-size: 13px;
+        line-height: 1.4;
+    }
+    #direct_last_content{
+        padding-top: 0px;
+    }
+    .direct_section6_card >div.head > h1{
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .direct_section6_card >div.head{
+        height: 130px;
+    }
+    .direct_section6_card > p{
+        margin: 5px 0px;
+        font-size: 13px;
+    }
+    #direct_last_content > div > div> div > p.text_dark_att.mb-5.mt-2{
+        margin-bottom: 10px !important;
+    }
+    /*************___________________DIRECTV QUERIES END____________***************************/
+    /*************___________________FRONTIER QUERIES STARTS____________***************************/
+    .main_frontier{
+        height: 400px;
+        background-position: center;
+        padding-top: 100px;
+    }
+    #main_content_frontier > div#main-capsule > div.capsule_content {
+        font-size: 13px;
+        padding: 4px 15px;
+    }
+    #main_content_frontier > div#main_logo_att > img{
+        width: 170px;
+    }
+    #frnt_section1{
+        width: fit-content;
+        margin-top: 50px;
+        padding: 10px;
+        margin-bottom: 50px;
+    }
+    #frnt_section1 > h1{
+        font-size: 35px;
+    }
+    #frnt_section1 > p{
+        font-size: 13px;
+    }
+    .frnt_card1 > div.bg_dark_att > h2{
+        font-size: 18px;
+        width: 100%;
+    }
+    .frnt_card1 > div.bg_dark_att{
+        height: 115px;
+    }
+    .frnt_card1 > p.hs_card_att_heighlighted{
+        font-size: 13px;
+    }
+    .frnt_card1 > span.hs_card_att_price{
+        font-size: 18px;
+    }
+    .frnt_card1 > p{
+        font-size: 13px;
+    }
+    .frnt_card1 > .att_card_btn {
+        padding: 8px 25px;
+        font-size: 10px;
+    }
+    .frontier_entertainment, .frontier_getdish{
+        background-size: cover;
+        padding: 20px 30px;
+        height: fit-content;
+    }
+    .frontier_entertainment_text, .frontier_getdish_text{
+        padding: 0px;
+    }
+    .frontier_descript_h {
+        font-size: 28px;
+        padding-bottom: 0px;
+    }
+    .frontier_descript_p {
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+    #frontier_section2,#frontier_section6,#main_spectrum,#spct_section2{
+        padding-top: 50px;
+        margin-top: 0px;
+        height: fit-content;
+        background-size: cover;
+        background-position-x: center;
+    }
+    #frontier_section2 > div.my_container{
+        width: fit-content;
+        padding: 10px;
+    }
+    #frontier_section2 > div > div > div:nth-child(2) > div.frnt_black_card {
+        margin-top: 10px;
+    }
+    .frnt_black_card > p {
+        margin: 5px 0px;
+    }
+    .frnt_black_card > h1{
+        font-size: 18px;
+    }
+    .frnt_black_card > span:nth-child(8) {
+        margin-bottom: 25px;
+    }
+    #frnt_section5_inner{
+        width: fit-content;
+        padding: 10px;
+    }
+    #frnt_section5_inner > div > div:nth-child(2) > img {
+        width: 100%;
+    }
+    #frontier_section6 > div.my_container{
+        width: fit-content;
+        padding: 10px;
+    }
+    #frontier_section6 > div > h1 {
+        font-size: 32px
+    }
+    .frnt_card_white{
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    .frnt_card_white > div {
+        padding: 16px 10px;
+        width: fit-content;
+        margin: -30px auto 0px auto;
+        height: 85px;
+    }
+    .hs_card_att > div > h2{
+        font-size: 13px;
+    }
+    .frnt_card_price{
+        font-size: 20px;
+    }
+    .frnt_card_white > p{
+        font-size: 13px;
+    }
+    .frnt_card_white > p.text_pp{
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+    #frnt_last_section{
+        padding: 60px 15px 10px 15px;
+    }
+    #frnt_last_section > div > div > h1{
+        text-align: center;
+        font-size: 26px;
+    }
+    #frnt_last_section > div > div > p,#frnt_last_section > div > div:nth-child(1) > p{
+        padding: 0px;
+        line-height: 1.5;
+        font-size: 13px;
+    }
+    #frnt_last_section > div > div:nth-child(2) {
+      padding-right: 0px;
+    }
+
+
+
+
+    /*************___________________FRONTIER QUERIES END____________***************************/
+
+
+    /*************___________________SPECTRUM QUERIES START____________***************************/
+    #main_content_spectrum{
+        width: fit-content;
+    }
+    #main_content_spectrum > h1 {
+        font-size: 20px;
+    }
+    #main_content_spectrum > div#call_capsule_cox{
+        margin: 10px auto;
+        padding-top: 0px;
+        font-size: 16px;
+    }
+    #main_content_spectrum > div#call_capsule_cox > img{
+        width: 30px;
+        margin-right: 18px;
+    }
+    #main_content_spectrum > div#main-capsule{
+        margin: 15px auto;
+    }
+    #spct_section1{
+        width: fit-content;
+        padding: 20px 10px 0px 10px;
+    }
+    .spct_h1{
+        font-size: 38px;
+    }
+    #spct_section1 > p{
+        font-size: 13px;
+    }
+    #spct_section1 > img.people_img {
+        width: 100%;
+        margin-top: 0px;
+    }
+    #spct_section2{
+        padding: 20px;
+    }
+    .spct_section2_card{
+        padding: 5px;
+    }
+    .att_section4_card > p{
+        font-size: 13px;
+    }
+    .spct_section2_card > div.head{
+        padding: 10px 25px;
+        margin: 0px -2px 0px -2px;
+        height: fit-content;
+    }
+    .spct_section2_card > div.head > h1 {
+        font-size: 15px;
+    }
+    .spct_section2_card > span.hs_card_att_price{
+        margin: 9px 0px;
+    }
+    #spct_section2 .spct_section2_card{
+        height: 460px;
+    }
+    #spct_section2 .spct_section2_card > a.btn{
+        left: 20%;
+        padding: 8px 20px;
+    }
+    .spct_section2_card > p.spct_chnl{
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    #spct_section2 > div > div > div:nth-child(2) > div > p.text_dark_att.spct_chnl{
+        margin: 0px;
+    }
+    #spct_section2 > div > div >div:nth-child(2) > div > p.text_dark_att.mb-5.mt-2 {
+        margin-bottom: 18px !important;
+    }
+    #spct_section2 > div > div >div:nth-child(3) > div > p.text_dark_att.mb-5.mt-2 {
+        margin-bottom: 20px !important;
+    }
+    #spct_section3{
+        background-size: cover;
+        background-position: center;
+        padding: 50px 20px;
+    }
+    #spct_section3_content{
+        padding: 26px 10px 20px 20px;
+    }
+    #spct_section3_content > h1{
+        font-size: 16px;
+    }
+    #spct_section3_content > div.search_btn{
+        margin: 15px 0px;
+        padding: 2px 8px;
+    }
+    #spct_section3_content > div.search_btn > div.group{
+        width: 155px;
+    }
+    #spct_section3_content > div.search_btn > button.btn, #spct_search_btn > button.btn{
+        font-size: 10px;
+    }
+    #spct_section4_content{
+        width: fit-content;
+        padding: 50px 10px;
+    }
+    #spct_section4_content > div:nth-child(1) > h1 {
+        font-size: 15px;
+    }
+    #spct_section4_content > div:nth-child(1) > h2 {
+        font-size: 15px;
+    }
+    #spct_section4_content > div:nth-child(2) > p {
+        font-size: 13px;
+    }
+    #spct_section4_content > div:nth-child(3) > img, #spct_section5_content > div:nth-child(6) > img {
+        width: 100%;
+    }
+    #rating_card{
+        width: 320px;
+        margin: 0 auto;
+        padding: 5px 20px;
+    }
+    #rating_card > div.head{
+        margin: 5px -10px 5px -10px;
+    }
+    #rating_card > p{
+        font-size: 13px;
+    }
+    #rating_card > span.hs_card_att_price {
+        margin: 10px 0px 0px 0px;
+    }
+    #rating_card > p.spct_chnl {
+        margin: 15px 0px;
+    }
+    #rating_card > p.text_dark_att.mt-3 {
+        margin-bottom: 20px;
+    }
+    #rating_card > button.btn{
+        font-size: 13px;
+        padding: 8px 30px;
+        margin-bottom: -20px;
+    }
+    .spct_section5_content{
+        padding: 50px 10px;
+        width: fit-content;
+    }
+    .spct_section5_content > div.spct_section5_head {
+        margin-bottom: 0px;
+    }
+    .spct_section5_content > div.spct_section5_head > h1 {
+        font-size: 23px;
+    }
+    .spct_section5_content > div:nth-child(2), .spct_section5_content > div:nth-child(3) {
+        margin-bottom: 0px;
+    }
+    .spct_section5_content > div:nth-child(3) > p{
+        text-align: justify;
+    }
+
+    .spct_section5_content > div:nth-child(5) > img {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .spct_section5_content > div:nth-child(6) {
+        width: 100%;
+    }
+    .spct_section5_content > div:nth-child(6) > p {
+        font-size: 17px;
+    }
+    #spct_search_btn > div.group {
+        width: 50%;
+    }
+    .specmobile_sec3_img img {
+        position: unset;
+        margin-left: -70px;
+    }
+        /*************___________________SPECTRUM QUERIES END____________***************************/
+        /*************___________________OPTIMUM QUERIES START____________***************************/
+    #optimum_head_content{
+        width: fit-content;
+        padding-bottom: 40px;
+    }
+    .optimum_logo {
+        width: 300px;
+        padding: 100px 0 28px 0;
+    }
+    .optimum_header_p >p{
+        font-size: 15px;
+        text-align: center;
+    }
+    .optimum_header > span.optimum_dot {
+        left: 18px;
+    }
+    .optimum_provide_h{
+        font-size: 25px;
+    }
+    .optimum_provide_hblue{
+        font-size: 30px;
+    }
+    .optimum_provide_p{
+        font-size: 13px;
+        line-height: 1.5;
+    }
+    .optimum_provide_text {
+        padding: 15px 10%;
+    }
+    .optimum_blog1_pic {
+        margin-left: -200px;
+    }
+    .optimum_blog1_pic > img,.optimum_blog2_pic > img {
+        width: 100%;
+    }
+    .optimum_blog1_text,.optimum_blog2_text {
+        padding-top: 20px;
+        padding-right: 0px;
+    }
+    .optimum_blog1_p {
+        line-height: 1.5;
+        padding-bottom: 8px;
+        font-size: 13px;
+    }
+    .optimum_blog_sec2{
+        display: none;
+    }
+    .optimum_blog2_pic{
+        margin-right: -200px;
+    }
+    .op_deals_text{
+        padding: 15px 25px;
+    }
+    .op_deals_h1 {
+        font-size: 20px;
+    }
+    .op_deals_p {
+        padding-bottom: 8px;
+        font-size: 13px;
+    }
+    .optimum_deals_sec > span.optimum_dot {
+        right: 10px;
+    }
+    .op_ch_h {
+        padding: 30px 20px;
+        font-size: 20px;
+    }
+    .op_cheap_pic > img {
+        width: 100%;
+    }
+    .op_cheap_p {
+        color: #071928;
+        line-height: 1.5;
+        font-size: 13px;
+        font-weight: 800;
+        padding: 20px 20px 0px 20px;
+    }
+    .op_cheap_ul {
+        padding: 0px 20px 20px 20px;
+    }
+    .op_cheap_li {
+        padding-bottom: 20px;
+        font-size: 13px;
+    }
+    .op_cheap_inter{
+        padding-bottom: 50px;
+    }
+    .op_cheap_inter > div.container{
+        width: fit-content;
+    }
+        /*************___________________OPTIMUM QUERIES END____________***************************/
+
+    /*************___________________SUDDENLINK QUERIES START____________***************************/
+    .sdlink_head_items{
+        width: fit-content;
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    .sdlink_head_items > img {
+        width: 250px;
+    }
+    .sdlink_head_items > div#main-capsule{
+        margin-top: 20px;
+    }
+    div.sdlink_head_items > #call_capsule_cox {
+        margin: 20px auto;
+    }
+    .suddenlink_internet_pkg{
+        padding: 10px;
+    }
+    .sd_pkg_h {
+        padding: 20px 10px;
+    }
+    .sd_pkg_h1 {
+        font-size: 23px;
+    }
+    .sd_pkg_h2 {
+        font-size: 28px;
+    }
+    .sdnl_section_card > span.hs_card_att_price {
+        margin-bottom: 0px;
+    }
+
+    #sdln_section_3_two{
+        display: none;
+    }
+    .sdbl_text_1,.sdbl_text_2{
+        padding: 20px;
+        height: fit-content;
+    }
+    .sdbl_p{
+        font-size: 13px;
+        line-height: 1.5;
+        margin-bottom: 8px;
+    }
+    .sdln_tvin_bundles{
+        padding: 50px 0px 50px 0px;
+    }
+    .sdln_tvin_text{
+        padding: 10px;
+    }
+    .sdln_tvin_1sth {
+        text-align: center;
+        font-size: 30px;
+    }
+    .sdln_tvin_2nd{
+        padding: 0px;
+    }
+    .sdln_tvin_2ndp {
+        line-height: 1.5;
+        padding-bottom: 8px;
+        font-size: 13px;
+    }
+    .sdlink_tvint_cardboxes,.sdln_last_sec1{
+        width: fit-content;
+        padding: 10px;
+    }
+    .sdlink_tvint_section_img > img{
+        padding-top: 60px;
+    }
+    .sdnl_section_card > span.hs_card_att_price:nth-child(7) {
+        margin-bottom: 30px;
+    }
+    .sdlink_instant_text{
+        padding: 20px 10px;
+        text-align: center;
+    }
+    .sdlink_instant_texth {
+        font-size: 20px;
+        padding: 0px;
+    }
+    .sdlink_instant_textp {
+        line-height: 1.3;
+        font-size: 13px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+    #sdln_search_btn{
+        margin-top: 20px !important;
+    }
+    #sdln_search_btn > .group{
+        width: 155px;
+    }
+    .sdln_lasth1{
+        font-size: 25px;
+        padding: 0px;
+    }
+    .sdln_lastp1 {
+        font-size: 13px;
+        padding-bottom: 8px;
+        line-height: 1.5;
+    }
+    /*************___________________SUDDENLINK QUERIES END____________***************************/
+
+    /*************___________________XFINITY QUERIES START____________***************************/
+
+    .xfinity_header_pic{
+        display: none;
+    }
+    #xfinity_main{
+        width: fit-content;
+        height: fit-content;
+        padding: 80px 20px;
+    }
+    .xfinity_header_text > img{
+        width: 250px;
+    }
+    .xfinity_header_p {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    .xfinity_cards_sec{
+        padding-top: 50px;
+    }
+    .xfinity_cards_h1{
+        font-size: 30px;
+    }
+    .xfinity_cards_h2{
+        font-size: 30px;
+    }
+    #xfinity_ch{
+        padding-top: 15px;
+    }
+    #xfinity_ch > h1{
+        font-size: 12px;
+    }
+    .xfinity_cards_sect > div > div > div > p.text_dark_att.mb-2.mt-2{
+        font-size: 13px;
+        padding: 0px;
+    }
+    .xf_ct_blockt{
+        font-size: 13px;
+    }
+    body > div.xfinity_cards_sec > div > div > div > div:nth-child(1) > div > p:nth-child(6) {
+        margin-bottom: 20px !important;
+    }
+    body > div.xfinity_cards_sec > div > div > div > div:nth-child(3) > div > p:nth-child(7),body > div.xfinity_cards_sec > div > div > div > div:nth-child(2) > div > p:nth-child(8){
+        margin-bottom: 6px !important;
+    }
+    .xfinity_3rdsec_t{
+        width: fit-content;
+        padding: 40px 20px;
+    }
+    .xfinity_dot{
+        margin-right: -12px;
+    }
+    .xf_3rdsec_p {
+        font-size: 13px;
+        padding-bottom: 8px;
+        line-height: 1.5;
+    }
+    .xf_4thsec_pic {
+        padding: 0px;
+    }
+    .xf_4thsec_text,#xf_4thsec_text2{
+        padding: 20px;
+        text-align: center;
+    }
+    .xf_4thsec_h1 {
+        padding-bottom: 10px;
+        font-size: 20px;
+    }
+    .xf_4thsec_p {
+        line-height: 1.5;
+        font-size: 13px;
+        padding-bottom: 8px;
+    }
+    div.xf_4thsec2_b > div > div.col-md-5 {
+         margin-top: 0px;
+    }
+    div.xfinity_4thsec > div > div > div > div.col-md-7,div.xf_4thsec2_b > div > div.col-md-5{
+        padding-right: calc(var(--bs-gutter-x) * .5);
+    }
+    div.xfinity_4thsec > div > div > div > div.col-md-5,div.xf_4thsec2_b > div > div.col-md-7 {
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+    /*************___________________XFINITY QUERIES END____________***************************/
+    /*************___________________HUGHESNET QUERIES START____________***************************/
+    .hughesnet_provide_p{
+        font-size: 13px;
+        line-height: 1.5;
+    }
+    .hughesnet_dot{
+        left: 10px;
+    }
+    .hughesnet_provide_text{
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .bg_pic_blue,.bg_pic2_blue {
+        top: 10px;
+    }
+    .hughesnet_blog_sec1{
+        margin-bottom: 0px;
+        height: fit-content;
+    }
+    .hughesnet_blog_sec1.flow{
+        /*overflow-x: hidden;*/
+        /*overflow-y: auto;*/
+        position: relative;
+        height: 500px;
+    }
+    .hughesnet_blog1_pic {
+        right: -83px;
+        top: -90px;
+    }
+    .hughesnet_blog1_pic > img,.hughesnet_blog2_pic > img,.internet_blog2_pic > img {
+        width: 180px;
+    }
+    .hughesnet_blog1_text {
+        margin-top: 30px;
+        padding: 20px;
+    }
+    .hughesnet_blog1_p{
+        line-height: 1.5;
+        padding-bottom: 8px;
+        font-size: 13px;
+    }
+    .hughesnet_pkg_h{
+        padding-top: 20px;
+    }
+    .hughesnet_pkg_h1 {
+        font-size: 30px;
+    }
+    .hughesnet_internet_pkg{
+        padding-bottom: 0px;
+    }
+    .hughesnet_internet_pkg > div > div.row{
+        padding: 10px;
+    }
+    .hughesnet_blog2_text{
+        padding: 20px;
+    }
+    .hughesnet_blog2_pic{
+        left: -105px;
+        top: -84px;
+    }
+    .hughes_deal_sec{
+        margin: 80px auto;
+    }
+    .hughesnet_deals_h1 {
+        font-size: 28px;
+        margin-bottom: 0px;
+    }
+    .hughesnet_deals_p {
+        padding-bottom: 0px;
+        font-size: 13px;
+    }
+    body > div.hughes_deal_sec.main_head > div > span.optimum_dot {
+       right: 20px;
+    }
+    .hughes_cheap_pic > h2.op_ch_h{
+        padding: 10px 0px;
+        text-align: center;
+    }
+    .hughes_cheap_pic > img {
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 0px;
+    }
+    .hughes_cheap_pic{
+        padding: 10px 20px;
+    }
+
+    /*************___________________HUGHESNET QUERIES END____________***************************/
+    /*************___________________EARTHLINK QUERIES START____________***************************/
+    #earthlink_section1,#earthlink_sec3,#el_section4,#el_section5,.el_section5_content{
+        width: fit-content;
+        margin-top: 50px;
+        padding: 10px 20px;
+    }
+    #earthlink_section1 > h1{
+        font-size: 35px;
+    }
+    #earthlink_section1 > p{
+        font-size: 13px;
+    }
+    .earthlink_card1{
+        margin-top: 5px;
+    }
+    .earthlink_card1 > div.bg_dark_att > h2 {
+        font-size: 15px;
+    }
+    .earthlink_card1 > div.bg_dark_att{
+        height: 100px;
+        width: 90%;
+    }
+    .earthlink_card1 > div.bg_dark_att > h2{
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    .earthlink_card1 > p.hs_card_att_heighlighted{
+        padding: 6px 8px;
+        font-size: 13px;
+    }
+    .earthlink_card1 > span.hs_card_att_price{
+        font-size: 18px;
+        margin: 8px auto;
+    }
+    .earthlink_card1 > p{
+        font-size: 13px;
+    }
+    .earthlink_card_btn{
+        padding: 5px 18px;
+        font-size: 10px;
+        margin-bottom: -22px;
+    }
+    .section3_text{
+        padding-right: 0px;
+    }
+    .section3_text > h1{
+        font-size: 25px;
+    }
+    .section3_text > p{
+        font-size: 13px;
+        line-height: 1.5;
+        padding-right: 0px;
+    }
+    .el_section5_content > p ,.spct_section5_head > p{
+        font-size: 13px;
+        /*text-align: justify;*/
+    }
+    .el_section5_content > div#spct_search_btn{
+        margin: 25px auto;
+    }
+    .el_section5_content > .spct_section5_head > p{
+        font-size: 13px;
+    }
+    #earthlink_sec3{
+        margin-bottom: 50px;
+    }
+
+    .el_sec3_text > h1{
+        font-size: 25px;
+    }
+    .el_sec3_text > p{
+        font-size: 13px;
+        line-height: 1.5;
+        padding-right: 0px;
+    }
+    #earthlink_sec3 > div > div > div > img {
+        width: 310px;
+    }
+    .el_sec3_back {
+        width: 350px;
+        height: 450px;
+    }
+    div.el_sec3_yel, div.el_sec3_right{
+        width: 350px;
+        height: 300px;
+    }
+    div.el_sec3_right {
+        top: 48px;
+        border-bottom: 402px solid #ec8c22;
+        border-left: 351px solid transparent;
+    }
+    div.el_sec3_yel {
+        border-top: 119px solid #4d4f54;
+        border-right: 95px solid transparent;
+        top: 50px;
+    }
+    #earthlink_sec3 > div > div > div > img {
+        width: 310px;
+    }
+    /*************___________________EARTHLINK QUERIES END____________***************************/
+    /*************___________________CENTURYLINK QUERIES START____________***************************/
+    #century_head_content {
+        width: fit-content;
+        padding: 100px 20px 50px 20px;
+    }
+    #main_century_logo > img{
+        width: 250px;
+    }
+    .century_head_p{
+        font-size: 20px;
+    }
+    #century_head_content > div#call_capsule_cox{
+        padding: 5px 0px;
+        margin: 15px auto;
+    }
+    #century_head_content > div#main-capsule{
+        padding: 5px 0px;
+        margin: 0px auto;
+    }
+    #century_section1{
+        width: fit-content;
+    }
+    #century_section1 > h1{
+        font-size: 25px;
+    }
+    .century_h1{
+        font-size: 30px;
+    }
+    .cent_color_bg{
+        height: 500px;
+    }
+    .cent_sq{
+        left: 0;
+        bottom: 0;
+    }
+    .century_sect_pic{
+        margin-left: 0px;
+        left: unset;
+        padding: 30px;
+    }
+    .century_sect1_pic,.century_sect1_pic > img {
+        width: 100%;
+    }
+    .cent_dot{
+        display: none;
+    }
+    .cent_sect1_text{
+        margin-left: 0px;
+    }
+    .cent_sect1_whitetext{
+        font-size: 18px;
+        padding-right: 0px;
+    }
+    .century_sect1_bg{
+        margin-bottom: 0px;
+    }
+    .century_section2_card{
+        padding: 10px;
+    }
+    .century_section2_card > div.head{
+        padding: 7px 10px;
+        height: fit-content;
+        margin: 0px 0px 10px;
+    }
+    .century_section2_card > div.head > h1{
+        font-size: 20px;
+    }
+    .century_sec4{
+        width: fit-content;
+        padding-top: 40px;
+    }
+    .century_4h1{
+        font-size: 20px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #cent_search_btn{
+        margin-top: 20px !important;
+    }
+    .group_cent{
+        width: 160px;
+    }
+    #cent_search_btn > button.cent_btn{
+        width: 80px;
+        font-size: 8px;
+        padding: 10px;
+    }
+    .cent_p {
+        padding: 20px 0px;
+    }
+    .cent_p1{
+        font-size: 13px;
+        line-height: 1.5;
+    }
+    #cent_last_sec{
+        width: fit-content;
+        margin-bottom: 80px;
+    }
+    .cent_last_left {
+        padding: 25px 25px 10px 25px;
+    }
+    .cent_last_left > div{
+        margin-top: 20px;
+    }
+    .cent_last_left > div > p{
+        font-size: 13px;
+    }
+    .cent_last_left > img {
+        width: 200px;
+    }
+    .century_sect1_bg > div.row {
+        margin-left: unset;
+        margin-right: unset;
+    }
+    #cent_last_green {
+        height: 100%;
+    }
+    .cent_last_right{
+        height: fit-content;
+    }
+    .cent_last_right > p {
+        margin-top: 10px;
+        font-size: 13px;
+        line-height: 1.6;
+        color: black;
+    }
+    .cent_last_right > img{
+        width: 100%;
+        position: unset;
+        height: unset;
+    }
+    /*************___________________CENTURYLINK QUERIES END____________***************************/
+    /*************__________________MEDIACOMQUERIES START____________***************************/
+    .mediacom_head_pic{
+        display: none;
+    }
+    .mediacom_head{
+        height: 400px;
+    }
+    .mediacom_card_sec1 {
+        width: fit-content;
+        padding: 0px 20px;
+    }
+    .mdcom_sec4_cont{
+        padding: 10px 0px;
+    }
+    .md_sc4_p,.mediacom_final_p{
+        font-size: 13px;
+        line-height: unset;
+        padding-right: unset;
+    }
+    #pkgs_heading > img{
+        width: 220px;
+        margin-bottom: 20px;
+    }
+    .mediacom_final_h1{
+        font-size: 25px;
+    }
+    .mediacom_final_text{
+        padding: 0px;
+    }
+    #mediacom_pkg_section{
+        margin-bottom: 50px;
+    }
+    /*************__________________MEDIACOM QUERIES END____________***************************/
+    /*************__________________TV QUERIES START____________***************************/
+    #tv_section5,#tv_section4{
+        height: fit-content;
+        padding: 40px 20px;
+    }
+    #tv_section5{
+        margin-bottom: 150px;
+    }
+    .red-cirle-head{
+        height: fit-content;
+        width: 100%;
+        margin-bottom: 0px;
+        margin-top: -50px;
+    }
+    .h-comp-img{
+        height: 100%;
+    }
+
+
+    /*************___________________TV QUERIES END____________***************************/
+    /*************___________________CONTACT QUERIES START____________***************************/
+    .contact_head_text{
+        width: fit-content;
+        padding: 100px 20px 20px 20px;
+    }
+    .contact_head_h {
+        font-size: 50px;
+    }
+    .contact_head_dot{
+        width: 60px;
+        height: 75px;
+    }
+    .contact_head_p,.contact_card_p {
+        font-size: 13px;
+    }
+    .contact_card1, .contact_card2{
+        margin-top: -30px;
+        padding: 15px 10px;
+        height: fit-content;
+    }
+    .contact_cards,.contact_form{
+        width: fit-content;
+        padding: 10px;
+    }
+    .contact_card1 > img,.contact_card2 > img{
+        width: 40px;
+        height: 40px;
+        margin-bottom: 5px;
+    }
+    .contact_card_h{
+        font-size: 13px;
+        margin: 10px;
+    }
+    .contact_card1 > button > img{
+        width: 10px;
+    }
+    .contact_card2 > button,.contact_card1 > button{
+        font-size: 5px;
+        letter-spacing: 2.0;
+        padding: 5px 8px;
+        width: fit-content;
+    }
+    .contact_card2 > button.btn{
+        padding: 8px 12px;
+    }
+    .contact_card3{
+        padding: 30px;
+    }
+    .contact_card3 > div >div > div > p{
+        text-align: center;
+    }
+    .contact_card3 > div >div > div > img{
+        margin-bottom: 8px;
+        margin-top: 35px;
+    }
+    .contact_form_dot{
+        top: -17px;
+        right: 17px;
+        margin-top: 0px;
+        margin-right: 0px;
+        }
+    .contact_form_h {
+        padding-top: 40px;
+        font-size: 30px;
+    }
+    .contact_form_p{
+        font-size: 13px;
+    }
+    .contact_form{
+        padding: 20px 40px;
+        padding-bottom: 100px;
+    }
+
+        /*************___________________CONTACT QUERIES END____________***************************/
+        /*************___________________SEARCH QUERIES START____________***************************/
+    .package_card > div.package_card_row > div.col-2:nth-child(1),
+    .package_card > div.package_card_row > div.col-2:nth-child(2),
+    .package_card > div.package_card_row > div.col-2:nth-child(3){
+        width: 33.33%;
+    }
+    .package_card > div.package_card_row > div.col-2:nth-child(4), .package_card > div.package_card_row > div.col-3{
+        margin-top: 20px;
+        width: 45%;
+    }
+    .package_card {
+        padding: 50px 10px 10px;
+    }
+    .package_card_row  div.col-2  img {
+        width: 100px;
+    }
+    .package_card_row > div.col-3 > button.phone_btn {
+        padding: 5px 5px;
+        font-size: 11px;
+    }
+    .package_card_row > div.col-3 > button.phone_btn > img {
+         margin-right: 0px;
+    }
+
+    #main_search{
+        height: fit-content;
+        background-size: cover;
+    }
+    .search_main_content{
+        padding: 50px 0px;
+    }
+    .search_main_content > h2{
+        font-size: 40px;
+    }
+    .package_card_row > div.col-2 > p.disc_text {
+        font-size: 6px;
+    }
+        /*************___________________SEARCH QUERIES END____________***************************/
+        .welcome_msg::before{
+            top: 25px;
+        }
+}
+@media screen and (max-width: 576px){
+    #usa .zoom{
+        zoom: 45%
+    }
+    .specmobile_sec3_img img {
+        position: unset;
+        margin-left: -40px;
+    }
+    .upper_specoffer_img .whole {
+        font-size: 7.5rem !important;
+    }
+    .upper_specoffer_img{
+        padding: 0px 20px;
+    }
+    .text_div_sect3 h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .text_div_sect3 h3 {
+        font-size: 25px;
+        text-align: center;
+    }
+    #main_logo_spct_mob img{
+        width: 260px;
+    }
+    #spct_section2 .spct_section2_card {
+        height: 370px;
+    }
+    #spct_section2 .spct_section2_card > a.btn{
+        left: 30%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
